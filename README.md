@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Osama Ahmed
 - 👀 I’m interested in coding & new technologies
-- 🌱 I’m currently learning Web Application Development
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me: osamatech786@gmail.com
 
